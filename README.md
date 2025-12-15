@@ -1,5 +1,10 @@
-<h1 align="center">Priscilla Oliveira</h1>
-<h3 align="center"> <code>Console.Write("Hello, World!")</code></h3>
+<h1> <code>Oi! Aqui é a Priscilla. </code></h1>
 
-<img align="right" src="https://github.com/user-attachments/assets/7bba6018-180e-42e0-9db7-41a33793f298" width="200"/>
+<h3>Sou estudante de programação e estou cursando Big Data & IA na PUC Goiás.</h3>
+
+<h4> <img src="https://github.com/user-attachments/assets/9195941c-add0-411f-8dc3-a8205d07af6f" width="50">  Um pouco sobre mim:</h4>
+
+
+
+
 
