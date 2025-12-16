@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/91851bb4-b915-46ae-87f8-a305b1496a45" width="100%" height="300px">
+<img src="https://github.com/user-attachments/assets/ba7480ad-cb39-4f78-84b2-427fe7d1b343" width="100%" height="300px">
+
 
 <h1> <code>Oi! Aqui é a Priscilla.</code></h1>
 
@@ -25,3 +26,5 @@
 <a href="mailto:oliveirapriscilla524@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
 <a href="www.linkedin.com/in/prisolliveira"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
 
+***
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
