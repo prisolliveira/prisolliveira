@@ -3,7 +3,7 @@
 
 <h1> <code>Oi! Aqui é a Priscilla.</code></h1>
 
-<img align="right" src="https://github.com/user-attachments/assets/8da026f5-d48b-4584-906a-4795c33e693a" width="400">
+<img align="right" src="https://github.com/user-attachments/assets/8da026f5-d48b-4584-906a-4795c33e693a" width="350">
 
 <p>
   <ul>
