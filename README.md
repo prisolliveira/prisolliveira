@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </em></p>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/660342a80d45aed4f1e71b26?variant=light&roadmaps=backend%3Fr%3Dbackend-beginner%2Caspnet-core%2Csql%2Capi-design)](https://roadmap.sh)
+
 ***
 
 <h3>Contato:</h3>
