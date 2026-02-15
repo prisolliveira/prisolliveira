@@ -1,9 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ba7480ad-cb39-4f78-84b2-427fe7d1b343" width="100%" height="300px">
-
-
-<h1> <code>Oi! Aqui é a Priscilla.</code></h1>
-
-<img align="right" src="https://github.com/user-attachments/assets/8da026f5-d48b-4584-906a-4795c33e693a" width="400">
+<h1> <code>Olá! Eu sou a Priscilla.</code></h1>
 
 <p>
   <ul>
@@ -13,16 +8,19 @@
 </ul>
 </p>
 
-<h3>Conhecimentos e estudos atuais:</h3>
+***
+
+<h3>Conhecimentos:</h3>
 
 <p><em>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </em></p>
 
-<h3>Contato:</h3>
+***
+
+<h3>Conecte-se comigo:</h3>
 
 <a href="mailto:oliveirapriscilla524@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
 <a href="https://www.linkedin.com/in/prisolliveira/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-***
-[![roadmap.sh](https://roadmap.sh/card/wide/660342a80d45aed4f1e71b26?variant=light&roadmaps=backend%3Fr%3Dbackend-beginner%2Caspnet-core%2Csql%2Capi-design)](https://roadmap.sh)
 
+***
