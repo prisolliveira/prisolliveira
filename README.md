@@ -1,5 +1,6 @@
 <h1> <code>Olá! Eu sou a Priscilla.</code></h1>
 
+<img width="400" align="right" alt="transferir-Photoroom" src="https://github.com/user-attachments/assets/270cdfcc-2ebe-4224-9b04-38de4a900c9a" />
 <p>
   <ul>
   <li>  💻 Sou estudante de programação</li>
@@ -9,6 +10,7 @@
 </p>
 
 ***
+
 
 <h3>Conhecimentos:</h3>
 
