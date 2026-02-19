@@ -1,6 +1,7 @@
 <h1> <code>Olá! Eu sou a Priscilla.</code></h1>
 
-<img width="400" align="right" alt="transferir-Photoroom" src="https://github.com/user-attachments/assets/270cdfcc-2ebe-4224-9b04-38de4a900c9a" />
+<img width="350" align="right" alt="Cute Cat With Glasses Playing On Computer Laptop Sticker _ Nerdy-cat-Photoroom" src="https://github.com/user-attachments/assets/47f91729-0eb7-4c9b-a9dc-5f350a246d4a" />
+
 <p>
   <ul>
   <li>  💻 Sou estudante de programação</li>
@@ -18,11 +19,8 @@
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
 </em></p>
 
-***
-
 <h3>Conecte-se comigo:</h3>
 
 <a href="mailto:oliveirapriscilla524@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
 <a href="https://www.linkedin.com/in/prisolliveira/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
 
-***
