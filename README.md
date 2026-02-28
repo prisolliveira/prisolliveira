@@ -1,26 +1,44 @@
-<h1> <code>Olá! Eu sou a Priscilla.</code></h1>
 
-<img width="350" align="right" alt="Cute Cat With Glasses Playing On Computer Laptop Sticker _ Nerdy-cat-Photoroom" src="https://github.com/user-attachments/assets/47f91729-0eb7-4c9b-a9dc-5f350a246d4a" />
+<div align="center">
 
-<p>
-  <ul>
-  <li>  💻 Sou estudante de programação</li>
-  <li>  🤖 Estou cursando <i>Big Data & IA na PUC Goiás</i></li>
-  <li>  🎲 Foco em trabalhar com dados</li>
-</ul>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc160985-4604-450a-b6c5-8cab9ce52b0e" alt="Banner do Projeto" width="100%">
 </p>
+  <p align="center">
+    <em>
+      Sou estudante de <strong>programação</strong> com foco em <strong>dados</strong>, atualmente cursando
+      <strong>Big Data & Inteligência Artificial</strong> na <strong>PUC Goiás</strong>.
+      Tenho interesse em <strong>backend</strong>, <strong>análise de dados</strong> e
+      <strong>integração de sistemas</strong>, buscando aplicar conceitos de forma prática e estruturada.
+      Possuo base em <strong>C#</strong>, <strong>.NET</strong>, <strong>Python</strong> e <strong>SQL</strong>,
+      com atenção a <strong>boas práticas</strong>, <strong>organização de código</strong> e
+      <strong>evolução técnica contínua</strong>.
+    </em>
+  </p>
 
-***
+  <hr width="60%">
 
+  <h3>Conhecimentos:</h3>
 
-<h3>Conhecimentos:</h3>
+  <p>
+    <img src="https://img.shields.io/badge/C%23-2E2E2E?style=for-the-badge&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/.NET-2E2E2E?style=for-the-badge&logo=.net&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-2E2E2E?style=for-the-badge&logo=mysql&logoColor=white">
+  </p>
 
-<p><em>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
-</em></p>
+  <h3>Conecte-se comigo:</h3>
 
-<h3>Conecte-se comigo:</h3>
+  <p>
+    <a href="mailto:oliveirapriscilla524@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/prisolliveira/">
+      <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://medium.com/@prisolliveira_">
+      <img src="https://img.shields.io/badge/Medium-2E2E2E?style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+  </p>
 
-<a href="mailto:oliveirapriscilla524@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" > </a>
-<a href="https://www.linkedin.com/in/prisolliveira/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-<a href="https://medium.com/@prisolliveira_"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><a/>
+</div>
