@@ -10,9 +10,6 @@
       <strong>Big Data & Inteligência Artificial</strong> na <strong>PUC Goiás</strong>.
       Tenho interesse em <strong>backend</strong>, <strong>análise de dados</strong> e
       <strong>integração de sistemas</strong>, buscando aplicar conceitos de forma prática e estruturada.
-      Possuo base em <strong>C#</strong>, <strong>.NET</strong>, <strong>Python</strong> e <strong>SQL</strong>,
-      com atenção a <strong>boas práticas</strong>, <strong>organização de código</strong> e
-      <strong>evolução técnica contínua</strong>.
     </em>
   </p>
 
