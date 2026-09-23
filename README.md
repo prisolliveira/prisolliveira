@@ -8,7 +8,8 @@
 
 ## Sobre mim
 
-Estudante de Big Data & Inteligência Artificial na PUC Goiás, com foco em Ciência de Dados. Uso Python e SQL para transformar dados brutos em informação clara, do tratamento e da limpeza (ETL) até a visualização em dashboards que ajudam a tomar decisões.
+<p> Estudante de Big Data & Inteligência Artificial na PUC Goiás, com foco em Ciência de Dados. Uso Python e SQL para transformar dados brutos em informação clara, do tratamento e da limpeza (ETL) até a visualização em dashboards que ajudam a tomar decisões. </p>
+
 ---
 
 ## Projetos em destaque
