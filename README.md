@@ -80,15 +80,6 @@ Sistema de controle de estoque para um cliente fictício, com regras de validaç
 
 </div>
 
----
-
-## Estatísticas do GitHub
-
-<!-- Troque SEU-USUARIO pelo seu username do GitHub -->
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</div>
 
 ---
 
@@ -118,9 +109,6 @@ Estou aberta a conversas sobre projetos, estágio e oportunidades na área de da
   </a>
   <a href="https://www.linkedin.com/in/prisolliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://medium.com/@prisolliveira_">
-    <img src="https://img.shields.io/badge/Medium-2E2E2E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 </p>
 
