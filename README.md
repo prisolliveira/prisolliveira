@@ -8,10 +8,7 @@
 
 ## Sobre mim
 
-Estudante de **Big Data & Inteligência Artificial** na **PUC Goiás**, com foco em **dados**. Tenho interesse em **backend**, **análise de dados** e **integração de sistemas**, e busco aplicar os conceitos de forma prática e estruturada, aprendendo principalmente construindo projetos reais.
-
-Atuo também na área de TI de uma prefeitura, o que me dá contato diário com suporte, redes e infraestrutura, e me ajuda a enxergar os dados pelo lado de quem opera os sistemas.
-
+Estudante de Big Data & Inteligência Artificial na PUC Goiás, com foco em Ciência de Dados. Uso Python e SQL para transformar dados brutos em informação clara, do tratamento e da limpeza (ETL) até a visualização em dashboards que ajudam a tomar decisões.
 ---
 
 ## Projetos em destaque
