@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/954d5ca7-bbf7-4a81-b00e-54d9f71d6332" alt="Banner" width="100%"/>
+<img width="100%" height="725" alt="Banner" src="https://github.com/user-attachments/assets/14f1b3fa-65c5-4416-b4a3-beb280696830" />
 
 </div>
 
@@ -103,11 +103,11 @@ Estou aberta a conversas sobre projetos, estágio e oportunidades na área de da
 
 <p>
   <a href="mailto:oliveirapriscilla524@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-2E2E2E?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-Envie_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
   <a href="https://www.linkedin.com/in/prisolliveira/">
-    <img src="https://img.shields.io/badge/LinkedIn-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte_se_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
 
 </div>
