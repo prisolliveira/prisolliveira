@@ -24,21 +24,6 @@
 
 </div>
 
-
----
-
-## Foco atual
-
-```python
-priscilla = {
-    "status_atual": "Cursando Big Data & Inteligência Artificial (PUC Goiás)",
-    "areas_de_foco": ["Análise de Dados", "Backend", "Integração de Sistemas"],
-    "estudando": ["Estruturas de Dados", "Business Intelligence", "ETL e Data Warehouse", "SQL"],
-    "interesses": ["Dashboards", "Automação de processos", "Resolução de problemas"],
-    "proximos_passos": ["Publicar mais projetos no GitHub", "Aprofundar C#/.NET", "Construir interfaces com customtkinter"],
-}
-```
-
 ---
 
 ## Vamos conversar
