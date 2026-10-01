@@ -10,6 +10,12 @@
 
 <p> Estudante de Big Data & Inteligência Artificial na PUC Goiás, com foco em Ciência de Dados. Uso Python e SQL para transformar dados brutos em informação clara, do tratamento e da limpeza (ETL) até a visualização em dashboards que ajudam a tomar decisões. </p>
 
+## Projeto em Destaque
+
+<p align="center">
+    <img width="100%" alt="Painel de Chamados" src="https://github.com/user-attachments/assets/5b811c54-a4d4-4e4c-8278-2d4693b93ab1" />
+</p>
+
 ## Tecnologias
 
 <div align="center">
@@ -24,12 +30,6 @@
 <table> <tr> <td align="center" width="96"> <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="48" height="48" alt="Claude" /> <br>Claude </td> <td align="center" width="96"> <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="48" height="48" alt="ChatGPT" /> <br>ChatGPT </td> </tr> </table>
 
 </div>
-
-## Projeto em Destaque
-
-<p align="center">
-    <img width="100%" alt="Painel de Chamados" src="https://github.com/user-attachments/assets/5b811c54-a4d4-4e4c-8278-2d4693b93ab1" />
-</p>
 
 ## Vamos conversar
 
