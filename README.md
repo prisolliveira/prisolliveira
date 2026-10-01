@@ -28,7 +28,8 @@
 ## Projeto em Destaque
 
 <p align="center">
-   <img width="100%" alt="Painel de Chamados" src="https://github.com/user-attachments/assets/1f013fc3-49b1-41e5-abd6-94b94793b2bf" />
+    <img width="100%" alt="Painel de Chamados" src="https://github.com/user-attachments/assets/6597234c-a2b0-4600-a5b9-61a123114831" />
+
 </p>
 
 ## Vamos conversar
