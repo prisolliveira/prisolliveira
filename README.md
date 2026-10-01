@@ -10,8 +10,6 @@
 
 <p> Estudante de Big Data & Inteligência Artificial na PUC Goiás, com foco em Ciência de Dados. Uso Python e SQL para transformar dados brutos em informação clara, do tratamento e da limpeza (ETL) até a visualização em dashboards que ajudam a tomar decisões. </p>
 
----
-
 ## Tecnologias
 
 <div align="center">
@@ -27,15 +25,12 @@
 
 </div>
 
----
-
 ## Projeto em Destaque
 
 <p align="center">
    <img width="100%" alt="Painel de Chamados" src="https://github.com/user-attachments/assets/1f013fc3-49b1-41e5-abd6-94b94793b2bf" />
 </p>
 
----
 ## Vamos conversar
 
 <div align="center">
